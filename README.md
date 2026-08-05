@@ -14,3 +14,4 @@ Games are simulated via monte-carlo simulation based on players defined real ski
 - Rating updates based on game results
 - Visualisation of Elo ratings against number of games played
 - Adjustable rating parameters
+- Agents real elo level improves over time when beating players of a higher rating
