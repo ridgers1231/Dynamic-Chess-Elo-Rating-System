@@ -13,7 +13,3 @@ This project implements an Elo rating system that dynamically updates player rat
 - Rating updates based on game results
 - Visualisation of Elo ratings against number of games played
 - Adjustable rating parameters
-
-## Example
-
-![Elo Rating vs Games](elo_vs_games.gif)
