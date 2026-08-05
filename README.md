@@ -5,7 +5,7 @@ This repository contains simulations of various physical systems using numerical
 ## Simulations
 
 ### 1. Disease Spread Simulation
-![Disease Spread](GIFs/infection_simulation.gif)
+![Disease Spread](elo_vs_games.gif)
 
 This simulation models the spread of a disease through a population of agents in a 2D space. Key features include:
 - Agent-based movement with linear trajectories and wall collisions
